@@ -1,0 +1,14 @@
+{
+    "name": "Himanshu",
+    "date": "2023-01-19",
+    "today": [
+        {
+            "description": "study",
+            "scheduled_time": "1:00pm"
+        },
+        {
+            "description": "Lunch",
+            "scheduled_time": "1:30"
+        }
+    ]
+}
