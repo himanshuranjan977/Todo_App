@@ -1,4 +1,6 @@
 # Todo_App
+
+#simple todo application
 import json
 from datetime import date
 
@@ -92,7 +94,7 @@ while True:
         break
     
 
- 
+ #todo application with user id and password and their verificstion
  
  
  import json 
@@ -236,7 +238,7 @@ if(successfull):
     old_user(user_name)
 
          
-        
+  #output of simple todo      
         
  {
     "name": "Himanshu",
@@ -252,12 +254,13 @@ if(successfull):
         }
     ]
 }
+#id_password of todo
 
 {
     "Himanshu": "Abcd@1234"
 }
 
-
+#sedule of todo
 {
     "Name": "Himanshu",
     "Date": "2023-01-19",
